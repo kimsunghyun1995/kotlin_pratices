@@ -1,3 +1,5 @@
+package chapter1
+
 class Student(val id: Int, var grade: String)
 
 class Rectangle(val width: Double, val height: Double) {

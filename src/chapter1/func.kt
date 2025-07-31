@@ -1,3 +1,5 @@
+package chapter1
+
 // 실습 1
 fun greet (name: String, greeting: String = "Hello") = "$greeting, $name!"
 
